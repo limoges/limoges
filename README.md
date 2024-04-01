@@ -4,7 +4,7 @@ I work as a software engineer for [SumUp](https://sumup.com/).
 
 As of January 2024, I work in the Data Platform, on the Streaming Infrastructure.
 
-We are re-architecting Kafka and moving Data Platform from ETL to EL(T).
+We are re-architecting Production Kafka, rethinking Data Extration and Loading technologies and moving Data Platform from ETL to EL(T).
 
 Hit me up if you want to talk at julien.limoges@sumup.com.
 
