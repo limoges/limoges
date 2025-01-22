@@ -16,3 +16,4 @@ I have worked & supported projects in the realm of:
 - CICD (e.g. jenkins, argocd, github actions,)
 - Traffic, Networking & Security (e.g. ingress/egress gateways, routing, dns & certificate management).
 - Configuration Management (e.g. helm, jsonnet, terraform, operators, cuelang, nix).
+- Kafka Ecosystem (e.g. kafka, kafka-connect, redpanda, kafka-protocol, kafka-brokers)
