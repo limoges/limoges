@@ -15,4 +15,4 @@ I have worked & supported projects in the realm of:
 - Observability (e.g. prometheus, operators, programmatic grafana dashboards/panels)
 - CICD (e.g. jenkins, argocd, github actions,)
 - Traffic, Networking & Security (e.g. ingress/egress gateways, routing, dns & certificate management).
-- Configuration Management (e.g. helm, jsonnet, terraform, operators, cuelang).
+- Configuration Management (e.g. helm, jsonnet, terraform, operators, cuelang, nix).
